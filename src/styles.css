@@ -23,8 +23,8 @@ div li + li {
 }
 
 button {
-  background: #7159c1;
-  color: #fff;
+  background: #7159C1;
+  color: #FFF;
   border: 0;
   padding: 10px 15px;
   cursor: pointer;
@@ -35,5 +35,5 @@ button {
 
 div li button {
   margin: 0 15px;
-  background: #ca4949;
+  background: #CA4949;
 }

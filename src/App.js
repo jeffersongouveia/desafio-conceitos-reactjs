@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react'
 
-import "./styles.css";
+import './styles.css'
 
 function App() {
   async function handleAddRepository() {
@@ -25,7 +25,7 @@ function App() {
 
       <button onClick={handleAddRepository}>Adicionar</button>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
